@@ -42,3 +42,4 @@ https://www.meetup.com/en-AU/meetup-group-BPNYjOrM/
 https://www.meetup.com/en-AU/Melbourne-DevSecOps-User-Group/
 https://www.meetup.com/en-AU/All-Sec/
 https://www.sans.org/talks
+
