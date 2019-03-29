@@ -16,6 +16,7 @@ https://securitycompass.github.io/iPhoneLabs/ - iPhones exploitation
 http://securitycompass.github.io/AndroidLabs/- Android Exploitation
 https://pen-testing.sans.org/blog/2011/10/07/welcome-to-the-sans-pen-test-blog - General Pentest blog to follow
 http://flaws.cloud/ - CTF on AWS
+https://github.com/sectalks/sectalks/tree/master/talks/MEL0x0e - Packet Dissection and File carving
 
 CTF based Training - Paid
 
