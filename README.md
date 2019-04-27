@@ -1,4 +1,9 @@
 # Security-Resources
+
+Cyber Security Pathways
+
+![](CyberSecuirtyPathways.png)
+
 Archive of Security Resources - Trainings, meetups, Links
 
 Different Security Assessment types:  https://danielmiessler.com/study/security-assessment-types/
