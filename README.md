@@ -1,4 +1,4 @@
-# Security-Resources
+# Security-Resources for Self-Paced Learners
 
 Cyber Security Pathways
 
@@ -10,6 +10,7 @@ Different Security Assessment types:  https://danielmiessler.com/study/security-
 
 CTF based Training - Free
 
+* http://opensecuritytraining.info/ (Provides a wide range of security content with Lab Environments)
 * http://overthewire.org/wargames/ (training in most of areas, i.e. – WebApps, Network)
 * https://exploit-exercises.com/nebula/ - Software exploitation
 * https://www.offensive-security.com/metasploit-unleashed/requirements/ - Network and infrastructure
