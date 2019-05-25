@@ -11,6 +11,7 @@ Different Security Assessment types:  https://danielmiessler.com/study/security-
 CTF based Training - Free
 
 * http://opensecuritytraining.info/ (Provides a wide range of security content with Lab Environments)
+* https://liveoverflow.com/getting-into-browser-exploitation-new-series-introduction-browser-0x00/ ( Browser Exploitation )
 * http://overthewire.org/wargames/ (training in most of areas, i.e. – WebApps, Network)
 * https://exploit-exercises.com/nebula/ - Software exploitation
 * https://www.offensive-security.com/metasploit-unleashed/requirements/ - Network and infrastructure
@@ -49,3 +50,8 @@ Technical Meetups to join and Learn – in Melbourne
 * https://www.meetup.com/en-AU/Melbourne-DevSecOps-User-Group/
 * https://www.meetup.com/en-AU/All-Sec/
 * https://www.sans.org/talks
+
+Security Conferences
+
+* https://infosec-conferences.com/
+* https://www.csoonline.com/article/3155500/the-cso-guide-to-top-security-conferences.html
