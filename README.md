@@ -55,3 +55,22 @@ Security Conferences
 
 * https://infosec-conferences.com/
 * https://www.csoonline.com/article/3155500/the-cso-guide-to-top-security-conferences.html
+
+Past Conference Videos: http://www.irongeek.com/
+
+Training Video content
+
+* https://www.youtube.com/channel/UCthV50MozQIfawL9a_g5rdg
+* https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ
+* https://www.youtube.com/user/SilvioCesare
+* https://www.youtube.com/channel/UCe8j61ABYDuPTdtjItD2veA
+* https://www.youtube.com/channel/UCJ2U9Dq9NckqHMbcUupgF0A
+
+Awareness Videos/Documentary/Movies
+
+* https://www.youtube.com/watch?v=qLg3e4TNQIU
+* https://www.youtube.com/watch?v=U3QXMMV-Srs
+* https://www.youtube.com/watch?v=FqibWHfn_Yc
+
+* Documentary on Stuxnet - http://www.zerodaysfilm.com/
+* Hackers movie - https://www.imdb.com/title/tt0113243/
