@@ -2,7 +2,7 @@
 
 Cyber Security Pathways
 
-Please refer the uploaded image
+Image - https://github.com/Add3r/Security-Resources/blob/master/CyberSecurityPathways.png
 ![](CyberSecuirtyPathways.png)
 
 Archive of Security Resources - Trainings, meetups, Links
