@@ -2,7 +2,7 @@
 
 Cyber Security Pathways
 
-![](CyberSecuirtyPathways.png)
+![](CyberSecuirtyPathways.PNG)
 
 Archive of Security Resources - Trainings, meetups, Links
 
