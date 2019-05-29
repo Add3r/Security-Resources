@@ -9,6 +9,8 @@ Archive of Security Resources - Trainings, meetups, Links, podcasts - addressing
 
 Different Security Assessment types:  https://danielmiessler.com/study/security-assessment-types/
 
+What Realistic in hacking and whats not ? - https://www.youtube.com/watch?v=SZQz9tkEHIg (Applied Hacking - Hacker explaining with movie content)
+
 CTF based Training - Free
 
 * http://opensecuritytraining.info/ (Provides a wide range of security content with Lab Environments)
@@ -69,6 +71,8 @@ Training Video content
 * https://www.youtube.com/channel/UCthV50MozQIfawL9a_g5rdg
 * https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ
 * https://www.youtube.com/user/SilvioCesare
+* https://www.youtube.com/channel/UC4m2G6T18_JcjwxwtwKJijw
+* https://greatscottgadgets.com/sdr/1/
 * https://www.youtube.com/channel/UCe8j61ABYDuPTdtjItD2veA
 * https://www.youtube.com/channel/UCJ2U9Dq9NckqHMbcUupgF0A
 
