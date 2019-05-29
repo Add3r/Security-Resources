@@ -39,6 +39,10 @@ CTF based Training - Paid
 * https://login.linuxacademy.com/ - Very good Resource to learn Cloud,DevOps and other technical contents. Same as attack and defense lab, no local lab deployment needed.
 * https://www.pentesteracademy.com/redteamlab - Windows Red Team Lab
 
+Books
+
+* https://nostarch.com/ - Really good collection of both security and non-security related books for all age/skill levels
+
 Technical Meetups to join and Learn – in Melbourne
 
 * https://www.meetup.com/en-AU/SecTalks-Melbourne/
