@@ -39,7 +39,7 @@ CTF based Training - Paid
 * https://login.linuxacademy.com/ - Very good Resource to learn Cloud,DevOps and other technical contents. Same as attack and defense lab, no local lab deployment needed.
 * https://www.pentesteracademy.com/redteamlab - Windows Red Team Lab
 
-Books
+Books for Learners who love to read
 
 * https://nostarch.com/ - Really good collection of both security and non-security related books for all age/skill levels
 
@@ -58,6 +58,7 @@ Technical Meetups to join and Learn – in Melbourne
 
 Security Conferences
 
+* https://2016.kiwicon.org/ - Best AsiaPacific Hacker conference in Newzealand
 * https://infosec-conferences.com/
 * https://www.csoonline.com/article/3155500/the-cso-guide-to-top-security-conferences.html
 
