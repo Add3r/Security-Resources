@@ -5,7 +5,7 @@ Cyber Security Pathways
 Image - https://github.com/Add3r/Security-Resources/blob/master/CyberSecurityPathways.png
 ![](CyberSecuirtyPathways.png)
 
-Archive of Security Resources - Trainings, meetups, Links
+Archive of Security Resources - Trainings, meetups, Links, podcasts - addressing all types of learners Audio, Visual, Text and Laboratory
 
 Different Security Assessment types:  https://danielmiessler.com/study/security-assessment-types/
 
@@ -81,3 +81,22 @@ Awareness Videos/Documentary/Movies
 * Documentary on Stuxnet - http://www.zerodaysfilm.com/
 * Hackers movie - https://www.imdb.com/title/tt0113243/
  
+Security Podcasts
+
+* https://www.grc.com/securitynow.htm
+* https://securityweekly.com/
+* https://risky.biz/netcasts/risky-business/
+* http://podcast.wh1t3rabbit.net/
+* https://defensivesecurity.org/
+* https://isc.sans.edu/podcast.html - Good weekly over the horizon current threat landscape
+* https://podcasts.apple.com/au/podcast/healthcare-information-security-podcast/id504642987
+* https://www.smashingsecurity.com/
+* https://darknetdiaries.com/episode/36/
+
+Security News Links & apps
+
+* https://play.google.com/store/apps/details?id=com.briox.riversip.rnd.cybersecurity&hl=en
+* https://itunes.apple.com/us/app/cyber-security-news-alerts/id792406035?mt=8
+* https://www.wired.com/tag/technology/
+* https://news.ycombinator.com/
+* https://thehackernews.com/
