@@ -6,6 +6,8 @@ Image - https://github.com/Add3r/Security-Resources/blob/master/CyberSecurityPat
 ![](CyberSecuirtyPathways.png)
 
 Archive of Security Resources - Trainings, meetups, Links, podcasts - addressing all types of learners Audio, Visual, Text and Laboratory
++ something very important "Developing Self Interest & Motivation"
+++ Motivation is like bathing, you gotta do it to yourself everyday. a good source for that - https://zenpencils.com/newreaders/
 
 Different Security Assessment types:  https://danielmiessler.com/study/security-assessment-types/
 
@@ -81,7 +83,8 @@ Awareness Videos/Documentary/Movies
 * https://www.youtube.com/watch?v=qLg3e4TNQIU
 * https://www.youtube.com/watch?v=U3QXMMV-Srs
 * https://www.youtube.com/watch?v=FqibWHfn_Yc
-
+* https://www.youtube.com/watch?v=kJyGZDXCbmA
+* https://www.youtube.com/watch?v=HW9hH0vlPEM
 * Documentary on Stuxnet - http://www.zerodaysfilm.com/
 * Hackers movie - https://www.imdb.com/title/tt0113243/
  
