@@ -5,7 +5,7 @@ Cyber Security Pathways
 Image - https://github.com/Add3r/Security-Resources/blob/master/CyberSecurityPathways.png
 ![](CyberSecuirtyPathways.png)
 
-Preferred Certifications - https://blog.hivint.com/introducing-the-cyber-security-skills-career-guide-f38261f39adc
+Preferred Certifications - https://blog.hivint.com/introducing-the-cyber-security-skills-career-guide-f38261f39adc ( Image in the blog article )
 
 Archive of Security Resources - Trainings, meetups, Links, podcasts - addressing all types of learners Audio, Visual, Text and Laboratory
 + something very important "Developing Self Interest & Motivation"
