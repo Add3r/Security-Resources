@@ -60,11 +60,17 @@ Technical Meetups to join and Learn – in Melbourne
 * https://www.meetup.com/en-AU/All-Sec/
 * https://www.sans.org/talks
 
-Security Conferences
+Security Conferences - ANZ
 
+* Black Hat & DEFCON (US)
 * https://2016.kiwicon.org/ - Best AsiaPacific Hacker conference in Newzealand
-* https://infosec-conferences.com/
-* https://www.csoonline.com/article/3155500/the-cso-guide-to-top-security-conferences.html
+* Ruxcon melbourne
+* OWASP AppSec Day
+* OzSecCon
+* BSIDES Canberra ( and other states as well )
+* CloudSec
+* AusCERT
+* AISA
 
 Past Conference Videos: http://www.irongeek.com/
 
