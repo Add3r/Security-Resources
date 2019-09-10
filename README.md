@@ -63,7 +63,7 @@ Technical Meetups to join and Learn – in Melbourne
 Security Conferences - ANZ
 
 * Black Hat & DEFCON (US)
-* https://2016.kiwicon.org/ - Best AsiaPacific Hacker conference in Newzealand
+* https://2016.kiwicon.org/
 * Ruxcon melbourne
 * OWASP AppSec Day
 * OzSecCon
