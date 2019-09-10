@@ -78,7 +78,7 @@ Training Video content
 * https://www.youtube.com/channel/UCe8j61ABYDuPTdtjItD2veA
 * https://www.youtube.com/channel/UCJ2U9Dq9NckqHMbcUupgF0A
 
-Awareness Videos/Documentary/Movies
+Awareness Videos/Documentary/Movies/TV-Series
 
 * https://www.youtube.com/watch?v=qLg3e4TNQIU
 * https://www.youtube.com/watch?v=U3QXMMV-Srs
@@ -87,6 +87,7 @@ Awareness Videos/Documentary/Movies
 * https://www.youtube.com/watch?v=HW9hH0vlPEM
 * Documentary on Stuxnet - http://www.zerodaysfilm.com/
 * Hackers movie - https://www.imdb.com/title/tt0113243/
+* Mr.Robot - https://www.imdb.com/title/tt4158110/
  
 Security Podcasts
 
