@@ -90,7 +90,7 @@ Awareness Videos/Documentary/Movies
  
 Security Podcasts
 
-* https://www.grc.com/securitynow.htm
+* https://www.blackhillsinfosec.com/podcasts/
 * https://securityweekly.com/
 * https://risky.biz/netcasts/risky-business/
 * http://podcast.wh1t3rabbit.net/
@@ -99,6 +99,7 @@ Security Podcasts
 * https://podcasts.apple.com/au/podcast/healthcare-information-security-podcast/id504642987
 * https://www.smashingsecurity.com/
 * https://darknetdiaries.com/episode/36/
+* https://www.grc.com/securitynow.htm
 
 Security News Links & apps
 
