@@ -7,7 +7,7 @@ Image - https://github.com/Add3r/Security-Resources/blob/master/CyberSecurityPat
 
 Preferred Certifications - https://blog.hivint.com/introducing-the-cyber-security-skills-career-guide-f38261f39adc ( Image in the blog article )
 
-Archive of Security Resources - Trainings, meetups, Links, podcasts - addressing all types of learners Audio, Visual, Text and Laboratory
+Archive of Security Resources - Trainings, meetups, Links, podcasts - addressing all types of learners Audio, Visual, Text and hands-on/Laboratory
 + something very important "Developing Self Interest & Motivation"
 ++ Motivation is like bathing, you gotta do it to yourself everyday. a good source for that - https://zenpencils.com/newreaders/
 
