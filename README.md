@@ -5,7 +5,7 @@ Cyber Security Pathways
 Image - https://github.com/Add3r/Security-Resources/blob/master/CyberSecurityPathways.png
 ![](CyberSecuirtyPathways.png)
 
-####### Post Covid-19 with more people reaching out to up-skill in Cyber Security field ######
+####### Post Covid-19 with more people reaching out to up-skill in Cyber Security field #####
 ####### Recommend to go through the following Computer science introductory material before deep diving into security content ########
 1. https://www.khanacademy.org/computing/computer-science/computers-and-internet-code-org
 2. https://www.edx.org/microbachelors/nyux-computer-science-fundamentals
