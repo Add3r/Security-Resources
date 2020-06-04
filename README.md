@@ -5,6 +5,11 @@ Cyber Security Pathways
 Image - https://github.com/Add3r/Security-Resources/blob/master/CyberSecurityPathways.png
 ![](CyberSecuirtyPathways.png)
 
+####### Post Covid-19 with more people reaching out to up-skill in Cyber Security field ######
+####### Recommend to go through the following Computer science introductory material before deep diving into security content ########
+1. https://www.khanacademy.org/computing/computer-science/computers-and-internet-code-org
+2. https://www.edx.org/microbachelors/nyux-computer-science-fundamentals
+
 Preferred Certifications - https://blog.hivint.com/introducing-the-cyber-security-skills-career-guide-f38261f39adc ( Image in the blog article )
 
 Archive of Security Resources - Trainings, meetups, Links, podcasts - addressing all types of learners Audio, Visual, Text and hands-on/Laboratory
@@ -18,7 +23,7 @@ What Realistic in hacking and whats not ? - https://www.youtube.com/watch?v=SZQz
 CTF based Training - Free
 
 * http://opensecuritytraining.info/ (Provides a wide range of security content with Lab Environments)
-* https://liveoverflow.com/getting-into-browser-exploitation-new-series-introduction-browser-0x00/ ( Browser Exploitation )
+* https://liveoverflow.com/getting-into-browser-exploitation-new-series-introduction-browser-0x00/ (Browser Exploitation 
 * http://overthewire.org/wargames/ (training in most of areas, i.e. – WebApps, Network)
 * https://exploit-exercises.com/nebula/ - Software exploitation
 * https://www.offensive-security.com/metasploit-unleashed/requirements/ - Network and infrastructure
@@ -31,6 +36,16 @@ CTF based Training - Free
 * https://pen-testing.sans.org/blog/2011/10/07/welcome-to-the-sans-pen-test-blog - General Pentest blog to follow
 * http://flaws.cloud/ - CTF on AWS
 * https://github.com/sectalks/sectalks/tree/master/talks/MEL0x0e - Packet Dissection and File carving
+
+FREE Distance Learning courses
+* https://samsclass.info/128/128_S19.shtml - Mobile Application Hacking
+* https://samsclass.info/50/50_S19.shtml - Network Security Monitoring
+* https://samsclass.info/126/126_F18.shtml - Practical Malware Analysis
+* https://samsclass.info/127/127_F18.shtml - Exploit Development
+* https://samsclass.info/152/152_F18.shtml - Incident Response
+* https://samsclass.info/129S/129S_S18.shtml - Web Application hacking
+* https://samsclass.info/141/141_F17.shtml - Cryptography for Computer Networks
+* https://samsclass.info/120/120_S16.shtml - Security+ Cert prep
 
 CTF based Training - Paid
 
