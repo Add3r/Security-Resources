@@ -9,6 +9,7 @@ Image - https://github.com/Add3r/Security-Resources/blob/master/CyberSecurityPat
 ####### Recommend to go through the following Computer science introductory material before deep diving into security content ########
 1. https://www.khanacademy.org/computing/computer-science/computers-and-internet-code-org
 2. https://www.edx.org/microbachelors/nyux-computer-science-fundamentals
+3. https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo
 
 Preferred Certifications - https://blog.hivint.com/introducing-the-cyber-security-skills-career-guide-f38261f39adc ( Image in the blog article )
 
@@ -127,6 +128,7 @@ Security Podcasts
 
 Security News Links & apps
 
+* https://www.morningstarsecurity.com/news
 * https://play.google.com/store/apps/details?id=com.briox.riversip.rnd.cybersecurity&hl=en
 * https://itunes.apple.com/us/app/cyber-security-news-alerts/id792406035?mt=8
 * https://www.wired.com/tag/technology/
