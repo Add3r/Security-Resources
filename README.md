@@ -15,7 +15,7 @@ Preferred Certifications - https://blog.hivint.com/introducing-the-cyber-securit
 
 Archive of Security Resources - Trainings, meetups, Links, podcasts - addressing all types of learners Audio, Visual, Text and hands-on/Laboratory
 + something very important "Developing Self Interest & Motivation"
-++ Motivation is like bathing, you gotta do it to yourself everyday. a good source for that - https://zenpencils.com/newreaders/
+++ Motivation is like bathing, you gotta do it to yourself everyday. a good resources for that - https://zenpencils.com/newreaders/, https://jockopodcast.com/.
 
 Different Security Assessment types:  https://danielmiessler.com/study/security-assessment-types/
 
