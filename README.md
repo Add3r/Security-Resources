@@ -21,6 +21,13 @@ Different Security Assessment types:  https://danielmiessler.com/study/security-
 
 What Realistic in hacking and whats not ? - https://www.youtube.com/watch?v=SZQz9tkEHIg (Applied Hacking - Hacker explaining with movie content)
 
+CTF Based Training - Free/Paid
+* Hack the Box - https://www.hackthebox.eu/
+* Try Hack Me - https://tryhackme.com/
+* Offensive Security Proving Grounds - https://www.offensive-security.com/labs/
+* Pentester Lab - https://pentesterlab.com/
+* Attack Defence Labs - https://attackdefense.com/
+
 CTF based Training - Free
 
 * http://opensecuritytraining.info/ (Provides a wide range of security content with Lab Environments)
@@ -49,14 +56,11 @@ FREE Distance Learning courses
 * https://samsclass.info/120/120_S16.shtml - Security+ Cert prep
 
 CTF based Training - Paid
-
-* https://pentesterlab.com/ - Web Application & more pentest related training
 * https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional/ - OSCP – Covers majority of the streams
 * http://www.securitytube-training.com/online-courses/securitytube-wi-fi-security-expert/index.html - Wireless attacks training from the author of Café-Latte attack. More better advanced attack than OSWP
 * http://www.pentesteracademy.com/ - covers a range of domains in Pentest
 * https://pen-testing.sans.org/training/courses - Pentest courses - costly and don’t recommend at this stage
 * http://www.crest-approved.org/uk/partners/crest-accredited-training-courses/index.html - Highly regarded security certification in UK,AUS,NZ if pentesting is your career to choose.
-* https://www.hackthebox.eu/ - covers majority of the streams
 * https://public.attackdefense.com/ - Covers majority of the security streams
 * https://login.linuxacademy.com/ - Very good Resource to learn Cloud,DevOps and other technical contents. Same as attack and defense lab, no local lab deployment needed.
 * https://www.pentesteracademy.com/redteamlab - Windows Red Team Lab
