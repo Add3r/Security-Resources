@@ -9,7 +9,7 @@ Before you begin, explore where you would like to head towards in your training.
  Image - https://github.com/Add3r/Security-Resources/blob/master/CyberSecurityPathways.png
  ![](CyberSecuirtyPathways.png)
  
- https://www.cyberseek.org/pathway.html
+ https://www.cyberseek.org/pathway.html (US only) - but gives a general idea
  
 Preferred Certifications - 
 + https://github.com/Add3r/Security-Resources/blob/master/Career-Guide.pdf ( refer image - Page 12 )
