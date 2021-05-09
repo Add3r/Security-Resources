@@ -2,7 +2,7 @@
 
 Archive of Security Resources - Trainings, meetups, Links, podcasts - addressing all types of learners Audio, Visual, Text and hands-on/Laboratory
 
-Before you begin, explore where you would like to head towards in your training.
+Before you begin, explore where you would like to head towards.
 
 **Cyber Security Pathways**
 
