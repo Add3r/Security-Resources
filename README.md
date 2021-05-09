@@ -2,27 +2,29 @@
 
 Archive of Security Resources - Trainings, meetups, Links, podcasts - addressing all types of learners Audio, Visual, Text and hands-on/Laboratory
 
+Before you begin, explore where you would like to head towards in your training.
+
 **Cyber Security Pathways**
 
  Image - https://github.com/Add3r/Security-Resources/blob/master/CyberSecurityPathways.png
  ![](CyberSecuirtyPathways.png)
+ https://www.cyberseek.org/pathway.html
+ 
+Preferred Certifications - 
++ https://github.com/Add3r/Security-Resources/blob/master/Career-Guide.pdf ( refer image - Page 12 )
++ https://pauljerimy.com/security-certification-roadmap/
 
-####### Post Covid-19 with more people reaching out to up-skill in Cyber Security field.
+####### Post Covid-19 with more people reaching out to up-skill in Cyber Security field. #########
 ####### Recommend to go through the following Computer science introductory material before deep diving into security content ########
 1. https://www.khanacademy.org/computing/computer-science/computers-and-internet-code-org
 2. https://www.edx.org/microbachelors/nyux-computer-science-fundamentals
 3. https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo
 
-Preferred Certifications - 
-+ https://blog.hivint.com/introducing-the-cyber-security-skills-career-guide-f38261f39adc ( refer image in the blog article )
-+ https://pauljerimy.com/security-certification-roadmap/
-
-
-+ something very important "Developing Self Interest & Motivation" good resources for that - https://zenpencils.com/newreaders/, https://jockopodcast.com/.
-
-Different Security Assessment types:  https://danielmiessler.com/study/security-assessment-types/
+something very important "Developing Self Interest & Motivation" good resources for that - https://zenpencils.com/newreaders/, https://jockopodcast.com/.
 
 What Realistic in hacking and whats not ? - https://www.youtube.com/watch?v=SZQz9tkEHIg (Applied Hacking - Hacker explaining with movie content)
+
+Different Security Assessment types:  https://danielmiessler.com/study/security-assessment-types/
 
 CTF Based Training - Free/Paid
 * Hack the Box - https://www.hackthebox.eu/
