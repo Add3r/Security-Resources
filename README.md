@@ -1,9 +1,11 @@
 # Security-Resources for Self-Paced Learners
 
-Cyber Security Pathways
+Archive of Security Resources - Trainings, meetups, Links, podcasts - addressing all types of learners Audio, Visual, Text and hands-on/Laboratory
 
-Image - https://github.com/Add3r/Security-Resources/blob/master/CyberSecurityPathways.png
-![](CyberSecuirtyPathways.png)
+**Cyber Security Pathways**
+
+ Image - https://github.com/Add3r/Security-Resources/blob/master/CyberSecurityPathways.png
+ ![](CyberSecuirtyPathways.png)
 
 ####### Post Covid-19 with more people reaching out to up-skill in Cyber Security field.
 ####### Recommend to go through the following Computer science introductory material before deep diving into security content ########
@@ -11,11 +13,12 @@ Image - https://github.com/Add3r/Security-Resources/blob/master/CyberSecurityPat
 2. https://www.edx.org/microbachelors/nyux-computer-science-fundamentals
 3. https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo
 
-Preferred Certifications - https://blog.hivint.com/introducing-the-cyber-security-skills-career-guide-f38261f39adc ( Image in the blog article )
+Preferred Certifications - 
++ https://blog.hivint.com/introducing-the-cyber-security-skills-career-guide-f38261f39adc ( refer image in the blog article )
++ https://pauljerimy.com/security-certification-roadmap/
 
-Archive of Security Resources - Trainings, meetups, Links, podcasts - addressing all types of learners Audio, Visual, Text and hands-on/Laboratory
-+ something very important "Developing Self Interest & Motivation"
-++ Motivation is like bathing, you gotta do it to yourself everyday. a good resources for that - https://zenpencils.com/newreaders/, https://jockopodcast.com/.
+
++ something very important "Developing Self Interest & Motivation" good resources for that - https://zenpencils.com/newreaders/, https://jockopodcast.com/.
 
 Different Security Assessment types:  https://danielmiessler.com/study/security-assessment-types/
 
