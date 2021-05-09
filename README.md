@@ -15,8 +15,7 @@ Preferred Certifications -
 + https://github.com/Add3r/Security-Resources/blob/master/Career-Guide.pdf ( refer image - Page 12 )
 + https://pauljerimy.com/security-certification-roadmap/
 
-####### Post Covid-19 with more people reaching out to up-skill in Cyber Security field. #########
-####### Recommend to go through the following Computer science introductory material before deep diving into security content ########
+####### Post Covid-19 with more people reaching out to up-skill in Cyber Security field. Recommend to go through the following Computer science introductory material before deep diving into security content ########
 1. https://www.khanacademy.org/computing/computer-science/computers-and-internet-code-org
 2. https://www.edx.org/microbachelors/nyux-computer-science-fundamentals
 3. https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo
