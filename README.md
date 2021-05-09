@@ -8,6 +8,7 @@ Before you begin, explore where you would like to head towards in your training.
 
  Image - https://github.com/Add3r/Security-Resources/blob/master/CyberSecurityPathways.png
  ![](CyberSecuirtyPathways.png)
+ 
  https://www.cyberseek.org/pathway.html
  
 Preferred Certifications - 
@@ -73,6 +74,8 @@ CTF based Training - Paid
 Books for Learners who love to read
 
 * https://nostarch.com/ - Really good collection of both security and non-security related books for all age/skill levels
+* https://b-ok.global/ - Free ebooks
+* http://libgen.rs/ - Free ebooks
 
 Technical Meetups to join and Learn – in Melbourne
 
