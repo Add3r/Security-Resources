@@ -20,6 +20,9 @@ Preferred Certifications -
 2. https://www.edx.org/microbachelors/nyux-computer-science-fundamentals
 3. https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo
 
+Practical Fundamentals
+4. https://tutorials.cyberaces.org/tutorials.html
+
 something very important "Developing Self Interest & Motivation" good resources for that - https://zenpencils.com/newreaders/, https://jockopodcast.com/.
 
 What Realistic in hacking and whats not ? - https://www.youtube.com/watch?v=SZQz9tkEHIg (Applied Hacking - Hacker explaining with movie content)
