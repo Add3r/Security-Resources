@@ -12,8 +12,9 @@ Before you begin, explore where you would like to head towards.
  https://www.cyberseek.org/pathway.html (US only) - but gives a general idea
  
 Preferred Certifications - 
-+ https://github.com/Add3r/Security-Resources/blob/master/Career-Guide.pdf ( refer image - Page 12 )
 + https://pauljerimy.com/security-certification-roadmap/
++ https://github.com/Add3r/Security-Resources/blob/master/Career-Guide.pdf ( refer image - Page 12 )
+
 
 ####### Post Covid-19 with more people reaching out to up-skill in Cyber Security field. Recommend to go through the following Computer science introductory material before deep diving into security content ########
 1. https://www.khanacademy.org/computing/computer-science/computers-and-internet-code-org
