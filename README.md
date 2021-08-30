@@ -21,6 +21,8 @@ Preferred Certifications -
 2. https://www.edx.org/microbachelors/nyux-computer-science-fundamentals
 3. https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo
 
+Are you new to Linux ? - try: https://linuxjourney.com/ or https://training.linuxfoundation.org/training/introduction-to-linux/
+
 Practical Fundamentals
 4. https://tutorials.cyberaces.org/tutorials.html
 
