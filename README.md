@@ -55,6 +55,9 @@ CTF based Training - Free
 * https://pen-testing.sans.org/blog/2011/10/07/welcome-to-the-sans-pen-test-blog - General Pentest blog to follow
 * http://flaws.cloud/ - CTF on AWS
 * https://github.com/sectalks/sectalks/tree/master/talks/MEL0x0e - Packet Dissection and File carving
+* https://ctf101.org/binary-exploitation/overview/ - Exploit Dev
+* https://wargames.ret2.systems/ - Bianry Exploitation
+* https://microcorruption.com/ - Embedded hacking
 
 FREE Distance Learning courses
 * https://samsclass.info/128/128_S19.shtml - Mobile Application Hacking
