@@ -23,8 +23,9 @@ Preferred Certifications -
 
 Are you new to Linux ? - try: https://linuxjourney.com/ or https://training.linuxfoundation.org/training/introduction-to-linux/
 
-Practical Fundamentals
-4. https://tutorials.cyberaces.org/tutorials.html
+Practical Fundamentals - https://tutorials.cyberaces.org/tutorials.html
+
+NICE Framework approved training Providers - https://www.nist.gov/itl/applied-cybersecurity/nice/nice-framework-resource-center/education-and-training-provider
 
 something very important "Developing Self Interest & Motivation" good resources for that - https://zenpencils.com/newreaders/, https://jockopodcast.com/.
 
