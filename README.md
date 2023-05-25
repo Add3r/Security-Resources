@@ -128,6 +128,7 @@ Here are some resources for developing self-interest and motivation:
 - [Zero Days - Documentary on Stuxnet](http://www.zerodaysfilm.com/)
 - [Hackers movie](https://www.imdb.com/title/tt0113243/)
 - [Mr. Robot](https://www.imdb.com/title/tt4158110/)
+- [The Undeclared War](https://www.imdb.com/title/tt7939800/)
 
 ### Security Podcasts
 - [Black Hills Infosec Podcasts](https://www.blackhillsinfosec.com/podcasts/)
