@@ -52,7 +52,7 @@ Here are some resources for developing self-interest and motivation:
 - [Open Security Training](http://opensecuritytraining.info/) (Provides a wide range of security content with Lab Environments)
 - [Live Overflow](https://liveoverflow.com/getting-into-browser-exploitation-new-series-introduction-browser-0x00/) (Browser Exploitation
 - [Over The Wire](http://overthewire.org/wargames/) (Training in most areas, i.e., WebApps, Network)
-- [Nebula: Exploit Exercises](https://exploit-exercises.com/nebula/) - Software exploitation
+- [Nebula: Exploit Exercises](https://exploit.education/) - Software exploitation
 - [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/requirements/) - Network and infrastructure
 - [VulnHub](https://www.vulnhub.com/) - Vulnerable Virtual Machines in different areas of focus
 - [CTFTime](https://ctftime.org/) - CTFs that happen around the world, for prize or money
