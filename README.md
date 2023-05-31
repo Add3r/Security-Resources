@@ -115,6 +115,7 @@ Here are some resources for developing self-interest and motivation:
 - [CloudSec](https://www.cloudsec.com/)
 - [AusCERT](https://www.auscert.org.au/)
 - [AISA](https://www.aisa.org.au/)
+
 - [Past Conference Videos](http://www.irongeek.com/)
 
 ### Training Video content
