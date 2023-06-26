@@ -100,7 +100,7 @@ Here are some resources for developing self-interest and motivation:
 - [OWASP Melbourne](https://www.meetup.com/en-AU/Application-Security-OWASP-Melbourne/)
 - [Platypus Infosec Melbourne](https://www.meetup.com/en-AU/platypus-infosec-melbourne/)
 - [Melbourne AWS Security User Group](https://www.meetup.com/en-AU/Melbourne-AWS-Security-User-Group/)
-- [BPNYjOrM Meetup Group](https://www.meetup.com/en-AU/meetup-group-BPNYjOrM/)
+- [Ruxmon Melbourne](https://www.meetup.com/en-AU/meetup-group-BPNYjOrM/)
 - [Melbourne DevSecOps User Group](https://www.meetup.com/en-AU/Melbourne-DevSecOps-User-Group/)
 - [All Sec Meetup](https://www.meetup.com/en-AU/All-Sec/)
 - [SANS Talks](https://www.sans.org/talks)
