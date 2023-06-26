@@ -89,7 +89,7 @@ Here are some resources for developing self-interest and motivation:
 - [Pentester Academy Red Team Lab](https://www.pentesteracademy.com/redteamlab) - Windows Red Team Lab
 
 ### Books for Learners who love to read
-- [No Starch Press](https://nostarch.com/) - Really good collection of both security and non-security related books for all age/skill levels
+- [No Starch Press](https://nostarch.com/catalog/security) - Really good collection of both security and non-security related books for all age/skill levels
 - [B-OK](https://b-ok.global/) - Free ebooks
 - [Libgen](http://libgen.rs/) - Free ebooks
 
