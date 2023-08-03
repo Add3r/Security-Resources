@@ -17,7 +17,7 @@ Learn more about these pathways on the [CyberSeek Pathway](https://www.cyberseek
 ## Computer Science Introductory Material
 Post Covid-19, with more people reaching out to up-skill in the Cyber Security field, we recommend going through the following Computer science introductory material before deep diving into security content:
 - [Khan Academy: Computer Science](https://www.khanacademy.org/computing/computer-science/computers-and-internet-code-org)
-- [Edx: Computer Science Fundamentals](https://www.edx.org/microbachelors/nyux-computer-science-fundamentals)
+- [Edx: Computer Science Fundamentals](https://www.edx.org/learn/computer-science/stanford-university-computer-science-101)
 - [Crash Course: Computer Science Playlist](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 
 If you're new to Linux, try:
