@@ -1,12 +1,20 @@
 # Security Resources for Self-Paced Learners
 
-Welcome to an archive of Security Resources that includes trainings, meetups, links, podcasts, and more. This repository aims to address all types of learners — Audio, Visual, Text, and Hands-on/Laboratory.
+This Repo is an archive of Security Resources that includes trainings, meetups, links, podcasts, and more. This repository aims to address foundational resources in Computer Science/Security Topics for all types of learners — Audio, Visual, Text, and Hands-on/Laboratory.
 
 ## Before you start
-To make the most out of these resources, it is advisable to explore where you would like to head towards.
+To make the most out of these resources, choose career pathway/role to progress with before you commit yourself to free/paid trainings archived here.
 
 ### Cyber Security Pathways
 ![Cyber Security Pathways](https://github.com/Add3r/Security-Resources/blob/master/CyberSecurityPathways.png)
+
+<div align="center">
+
+![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red.svg)
+[![Support](https://img.shields.io/static/v1?label=Support&message=Ko-fi&color=ff5e5b&logo=ko-fi)](https://ko-fi.com/add3r)
+![Repository Views](https://komarev.com/ghpvc/?username=Add3r&label=Repository+Views)
+
+</div>
 
 Learn more about these pathways on the [CyberSeek Pathway](https://www.cyberseek.org/pathway.html) website (US only) - it provides a general idea for all.
 
@@ -115,7 +123,6 @@ Here are some resources for developing self-interest and motivation:
 - [CloudSec](https://www.cloudsec.com/)
 - [AusCERT](https://www.auscert.org.au/)
 - [AISA](https://www.aisa.org.au/)
-
 - [Past Conference Videos](http://www.irongeek.com/)
 
 ### Training Video content
