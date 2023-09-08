@@ -1,3 +1,11 @@
+<div align="center">
+
+![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red.svg)
+[![Support](https://img.shields.io/static/v1?label=Support&message=Ko-fi&color=ff5e5b&logo=ko-fi)](https://ko-fi.com/add3r)
+![Repository Views](https://komarev.com/ghpvc/?username=Add3r&label=Repository+Views)
+
+</div>
+
 # Security Resources for Self-Paced Learners
 
 This Repo is an archive of Security Resources that includes trainings, meetups, links, podcasts, and more. This repository aims to address foundational resources in Computer Science/Security Topics for all types of learners — Audio, Visual, Text, and Hands-on/Laboratory.
@@ -8,15 +16,7 @@ To make the most out of these resources, choose career pathway/role to progress 
 ### Cyber Security Pathways
 ![Cyber Security Pathways](https://github.com/Add3r/Security-Resources/blob/master/CyberSecurityPathways.png)
 
-<div align="center">
-
-![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red.svg)
-[![Support](https://img.shields.io/static/v1?label=Support&message=Ko-fi&color=ff5e5b&logo=ko-fi)](https://ko-fi.com/add3r)
-![Repository Views](https://komarev.com/ghpvc/?username=Add3r&label=Repository+Views)
-
-</div>
-
-Learn more about these pathways on the [CyberSeek Pathway](https://www.cyberseek.org/pathway.html) website (US only) - it provides a general idea for all.
+Learn more about these pathways on the [CyberSeek Pathway](https://www.cyberseek.org/pathway.html) website (US only) - it provides a general idea on roles and career pathways.
 
 ### Preferred Certifications
 - [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)
@@ -37,11 +37,6 @@ If you're new to Linux, try:
 
 ## NICE Framework approved training Providers
 - [NIST: Education and Training Provider](https://www.nist.gov/itl/applied-cybersecurity/nice/nice-framework-resource-center/education-and-training-provider)
-
-## Developing Self Interest & Motivation
-Here are some resources for developing self-interest and motivation:
-- [Zen Pencils](https://zenpencils.com/newreaders/)
-- [Jocko Podcast](https://jockopodcast.com/)
 
 ## Reality Check in Hacking
 - [What's Realistic in Hacking and What's Not?](https://www.youtube.com/watch?v=SZQz9tkEHIg) (Applied Hacking - Hacker explaining with movie content)
@@ -157,5 +152,10 @@ Here are some resources for developing self-interest and motivation:
 - [Wired Technology](https://www.wired.com/tag/technology/)
 - [Hacker News](https://news.ycombinator.com/)
 - [The Hacker News](https://thehackernews.com/)
+
+## Handling Burnout
+Here are some resources for developing self-interest and motivation:
+- [Zen Pencils](https://zenpencils.com/newreaders/)
+- [Jocko Podcast](https://jockopodcast.com/)
 
 Please note that the above resources are just starting points. The field of cybersecurity is vast and ever-evolving, and the best way to stay up-to-date and relevant is to constantly learn and explore new resources. Happy learning!
