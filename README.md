@@ -10,13 +10,23 @@
 
 This Repo is an archive of Security Resources that includes trainings, meetups, links, podcasts, and more. This repository aims to address foundational resources in Computer Science/Security Topics for all types of learners — Audio, Visual, Text, and Hands-on/Laboratory.
 
+1. [Cyber Security Pathways](#Cyber-Security-Pathways)
+2. [Hands-on Learning](#hands-on-learning)
+3. [People-Based Learning](#people-based-learning)
+4. [Visual/Story-Based Learning](#visualstory-based-learning)
+5. [Audio-Based Learning](#audio-based-learning)
+6. [Text-Based Learning](#text-based-learning)
+7. [Handling Burnout](#handling-burnout)
+
 ## Before you start
 To make the most out of these resources, choose career pathway/role to progress with before you commit yourself to free/paid trainings archived here.
 
-## Cyber Security Pathways
+# Cyber Security Pathways 🔒
 ![Cyber Security Pathways](https://github.com/Add3r/Security-Resources/blob/master/CyberSecurityPathways.png)
 
 Learn more about these pathways on the [CyberSeek Pathway](https://www.cyberseek.org/pathway.html) website (US only) - it provides a general idea on roles and career pathways.
+
+<br>
 
 ### Preferred Certifications
 - [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)
@@ -32,6 +42,9 @@ Learn more about these pathways on the [CyberSeek Pathway](https://www.cyberseek
 | 🛡️ [Cyber Aces Tutorials](https://tutorials.cyberaces.org/tutorials.html) |                                   |
 
 
+## Different Security Assessment Types
+- [Security Assessment Types](https://danielmiessler.com/study/security-assessment-types/)
+
 ## Reality Check in Hacking
 - [What's Realistic in Hacking and What's Not?](https://www.youtube.com/watch?v=SZQz9tkEHIg)
 
@@ -41,13 +54,10 @@ Learn more about these pathways on the [CyberSeek Pathway](https://www.cyberseek
   </a>
 </p>
 
-
-## Different Security Assessment Types
-- [Security Assessment Types](https://danielmiessler.com/study/security-assessment-types/)
-
+# Hands-on Learning 🛠️
 ## CTF Based Training - Free/Paid
-- [Hack the Box](https://www.hackthebox.eu/)
 - [Try Hack Me](https://tryhackme.com/)
+- [Hack the Box](https://www.hackthebox.eu/)
 - [Offensive Security Proving Grounds](https://www.offensive-security.com/labs/)
 - [Pentester Lab](https://pentesterlab.com/)
 - [Attack Defence Labs](https://attackdefense.com/)
@@ -75,26 +85,28 @@ Learn more about these pathways on the [CyberSeek Pathway](https://www.cyberseek
 
 ### Free Distance Learning courses
 
-- [Mobile Application Hacking](https://samsclass.info/128/128_S19.shtml)
-- [Network Security Monitoring](https://samsclass.info/50/50_S19.shtml)
-- [Practical Malware Analysis](https://samsclass.info/126/126_F18.shtml)
-- [Exploit Development](https://samsclass.info/127/127_F18.shtml)
-- [Incident Response](https://samsclass.info/152/152_F18.shtml)
-- [Web Application hacking](https://samsclass.info/129S/129S_S18.shtml)
-- [Cryptography for Computer Networks](https://samsclass.info/141/141_F17.shtml)
-- [Security+ Cert prep](https://samsclass.info/120/120_S16.shtml)
+| Red                                | Blue                                          | General 
+|--------------------------------------------|--------------------------------------------------------|--------------------------------------------------|
+| [Mobile Application Hacking](https://samsclass.info/128/128_S19.shtml)              | [Network Security Monitoring](https://samsclass.info/50/50_S19.shtml)       | [Cryptography for Computer Networks](https://samsclass.info/141/141_F17.shtml) 
+| [Exploit Development](https://samsclass.info/127/127_F18.shtml)           | [Practical Malware Analysis](https://samsclass.info/126/126_F18.shtml) | [Security+ Cert prep](https://samsclass.info/120/120_S16.shtml)         |
+| [Web Application hacking](https://samsclass.info/129S/129S_S18.shtml)     |[Incident Response](https://samsclass.info/152/152_F18.shtml)                     | 
+   
 
 ### CTF based Training - Paid
-- [OSCP](https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional/) – Covers majority of the streams
-- [SecurityTube Wi-Fi Security Expert](http://www.securitytube-training.com/online-courses/securitytube-wi-fi-security-expert/index.html) - Wireless attacks training from the author of Café-Latte attack. More better advanced attack than OSWP
-- [Pentester Academy](http://www.pentesteracademy.com/) - Covers a range of domains in Pentest
-- [SANS Pentest Courses](https://pen-testing.sans.org/training/courses) - Pentest courses (costly and not recommended at this stage)
-- [CREST](http://www.crest-approved.org/uk/partners/crest-accredited-training-courses/index.html) - Highly regarded security certification in UK, AUS, NZ if pentesting is your career to choose.
-- [Attack Defense](https://public.attackdefense.com/) - Covers majority of the security streams
-- [Linux Academy](https://login.linuxacademy.com/) - Very good resource to learn Cloud, DevOps and other technical contents. No local lab deployment needed.
-- [Pentester Academy Red Team Lab](https://www.pentesteracademy.com/redteamlab) - Windows Red Team Lab
+| Certification/Course                                          | Description                                                  |
+|--------------------------------------------------------------|--------------------------------------------------------------|
+| [OSCP](https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional/)                      | Covers majority of the streams                                |
+| [SecurityTube Wi-Fi Security Expert](http://www.securitytube-training.com/online-courses/securitytube-wi-fi-security-expert/index.html) | Wireless attacks training from the author of Café-Latte attack. More advanced than OSWP |
+| [Pentester Academy](http://www.pentesteracademy.com/)       | Covers a range of domains in Pentest                         |
+| [SANS Pentest Courses](https://pen-testing.sans.org/training/courses)                | Pentest courses (costly and not recommended at this stage)  |
+| [CREST](http://www.crest-approved.org/uk/partners/crest-accredited-training-courses/index.html)                        | Highly regarded security certification in the UK, AUS, NZ if pentesting is your chosen career. |
+| [Attack Defense](https://public.attackdefense.com/)         | Covers majority of the security streams                     |
+| [Linux Academy](https://login.linuxacademy.com/)            | A very good resource to learn Cloud, DevOps, and other technical contents. No local lab deployment needed. |
+| [Pentester Academy Red Team Lab](https://www.pentesteracademy.com/redteamlab)               | Windows Red Team Lab                                        |
 
-## People based learning
+<br>
+
+# People-Based Learning 👥
 
 | Technical Meetups to Join and Learn – in Melbourne     | Security Conferences - ANZ                               |
 |--------------------------------------------------------|----------------------------------------------------------|
@@ -109,7 +121,9 @@ Learn more about these pathways on the [CyberSeek Pathway](https://www.cyberseek
 | [All Sec Meetup](https://www.meetup.com/en-AU/All-Sec/)                               | [AISA](https://www.aisa.org.au/)                           |
 | [SANS Talks](https://www.sans.org/talks)                                            | [Past Conference Videos](http://www.irongeek.com/)       |
 
-## Visual / Story based learning
+<br>
+
+# Visual/Story-Based Learning 📖
 
 | Training Video Content / Awareness Videos                                        | Documentary / Movies / TV-Series                 |
 |---------------------------------------------------------------|-------------------------------------------------------------|
@@ -119,27 +133,39 @@ Learn more about these pathways on the [CyberSeek Pathway](https://www.cyberseek
 | [LiveOverflow](https://www.youtube.com/channel/UCe8j61ABYDuPTdtjItD2veA)   | [The Undeclared War](https://www.imdb.com/title/tt7939800/)     |
 | [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA) |                                                             |
 
+<br>
 
-## Audio based learning
-
+# Audio-Based Learning 🎧
 ### Security Podcasts
-- [Black Hills Infosec Podcasts](https://www.blackhillsinfosec.com/podcasts/)
+- [Risky Business](https://risky.biz/netcasts/risky-business/) <span style="color:red;">&#x25C6;</span>
+- [Darknet Diaries](https://darknetdiaries.com/) <span style="color:red;">&#x25C6;</span>
+- [ISC SANS Podcasts](https://isc.sans.edu/podcast.html) <span style="color:red;">&#x25C6;</span>
+- [Black Hills Infosec Podcasts](https://www.blackhillsinfosec.com/podcasts/) <span style="color:red;">&#x25C6;</span>
 - [Security Weekly](https://securityweekly.com/)
-- [Risky Business](https://risky.biz/netcasts/risky-business/)
 - [Down the Security Rabbithole](http://podcast.wh1t3rabbit.net/)
 - [Defensive Security](https://defensivesecurity.org/)
-- [ISC SANS Podcasts](https://isc.sans.edu/podcast.html) - Good weekly overview of the current threat landscape
 - [Healthcare Information Security Podcast](https://podcasts.apple.com/au/podcast/healthcare-information-security-podcast/id504642987)
 - [Smashing Security](https://www.smashingsecurity.com/)
-- [Darknet Diaries](https://darknetdiaries.com/)
 - [Security Now](https://www.grc.com/securitynow.htm)
 
-## Text based learning
+<br>
+
+# Text-Based Learning 📝
 
 ### Books for Learners who love to read
-- [No Starch Press](https://nostarch.com/catalog/security) - Really good collection of both security and non-security related books for all age/skill levels
+
+[Visit the No Starch Press Security Books Catalog](https://nostarch.com/catalog/security)
+
+<a href="https://nostarch.com/catalog/security">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO2vYgi2uVBjUcgoUYQPFL80Iafw5wUYzWFw" alt="Security Books">
+</a>
+
+
+Other sources for free ebooks
 - [B-OK](https://b-ok.global/) - Free ebooks
 - [Libgen](http://libgen.rs/) - Free ebooks
+
+<br>
 
 ### Security News Links & apps
 - [Morning Star Security News](https://www.morningstarsecurity.com/news)
@@ -149,7 +175,9 @@ Learn more about these pathways on the [CyberSeek Pathway](https://www.cyberseek
 - [Hacker News](https://news.ycombinator.com/)
 - [The Hacker News](https://thehackernews.com/)
 
-## Handling Burnout
+<br>
+
+# Handling Burnout 🕊️
 Here are some resources for developing handling burnout, motivation and focus
 - [Meditate](https://www.headspace.com/meditation/how-to-meditate)
 - [Zen Pencils](https://zenpencils.com/newreaders/)
