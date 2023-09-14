@@ -56,11 +56,11 @@ Learn more about these pathways on the [CyberSeek Pathway](https://www.cyberseek
 
 # Hands-on Learning 🛠️
 ## CTF Based Training - Free/Paid
-- [Try Hack Me](https://tryhackme.com/)
-- [Hack the Box](https://www.hackthebox.eu/)
-- [Offensive Security Proving Grounds](https://www.offensive-security.com/labs/)
-- [Pentester Lab](https://pentesterlab.com/)
-- [Attack Defence Labs](https://attackdefense.com/)
+1. [Try Hack Me](https://tryhackme.com/)
+2. [Hack the Box](https://www.hackthebox.eu/)
+3. [Offensive Security Proving Grounds](https://www.offensive-security.com/labs/)
+4. [Pentester Lab](https://pentesterlab.com/)
+5. [Attack Defence Labs](https://attackdefense.com/)
 
 ### CTF based Training - Free
 | Website Name                                    | Description                                         |
