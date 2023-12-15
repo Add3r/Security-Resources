@@ -82,6 +82,7 @@ Learn more about these pathways on the [CyberSeek Pathway](https://www.cyberseek
 | 🔑 [CTF101](https://ctf101.org/binary-exploitation/overview/) | Exploit Dev                                      |
 | ⚙️ [Ret2 Systems](https://wargames.ret2.systems/)    | Binary Exploitation                                  |
 | 🧬 [Microcorruption](https://microcorruption.com/)    | Embedded hacking                                      |
+| 🔨 [EKS](https://eksclustergames.com/)    | EKS Cluster Hacking                                      |
 
 ### Free Distance Learning courses
 
