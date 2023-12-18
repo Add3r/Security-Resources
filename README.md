@@ -111,7 +111,7 @@ Learn more about these pathways on the [CyberSeek Pathway](https://www.cyberseek
 
 | Technical Meetups to Join and Learn – in Melbourne     | Security Conferences - ANZ                               |
 |--------------------------------------------------------|----------------------------------------------------------|
-| [SecTalks Melbourne](https://www.meetup.com/en-AU/SecTalks-Melbourne/)                 | [Black Hat & DEFCON (US)](https://www.blackhat.com/)       |
+| [SecTalks Melbourne](https://events.humanitix.com/host/sectalks-mel)                 | [Black Hat & DEFCON (US)](https://www.blackhat.com/)       |
 | [CryptoParty Melbourne](https://www.meetup.com/en-AU/CryptoParty-Melbourne/)           | [KiwiCon](https://2016.kiwicon.org/)                       |
 | [Cyberspectrum Melbourne](https://www.meetup.com/en-AU/Cyberspectrum-Melbourne/)       | [Ruxcon Melbourne](https://ruxcon.org.au/)                |
 | [OWASP Melbourne](https://www.meetup.com/en-AU/Application-Security-OWASP-Melbourne/)   | [OWASP AppSec Day](https://appsecday.io/)                |
