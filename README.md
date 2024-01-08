@@ -76,6 +76,7 @@ Learn more about these pathways on the [CyberSeek Pathway](https://www.cyberseek
 | 🌐 [OWASP Attack Category](https://www.owasp.org/index.php/Category:Attack) | Web Application                                   |
 | 📱 [iPhone Labs](https://securitycompass.github.io/iPhoneLabs/)         | iPhone exploitation                                  |
 | 🤖 [Android Labs](http://securitycompass.github.io/AndroidLabs/)        | Android Exploitation                                 |
+| 🌐 [API Labs](https://github.com/roottusk/vapi)  | API Exploitation  |
 | 📰 [SANS Pen Test Blog](https://pen-testing.sans.org/blog/2011/10/07/welcome-to-the-sans-pen-test-blog) | General Pentest blog to follow |
 | ☁️ [Flaws Cloud](http://flaws.cloud/)                | CTF on AWS                                           |
 | 📁 [Packet Dissection and File Carving](https://github.com/sectalks/sectalks/tree/master/talks/MEL0x0e) |  |
