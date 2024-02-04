@@ -84,6 +84,7 @@ Learn more about these pathways on the [CyberSeek Pathway](https://www.cyberseek
 | ⚙️ [Ret2 Systems](https://wargames.ret2.systems/)    | Binary Exploitation                                  |
 | 🧬 [Microcorruption](https://microcorruption.com/)    | Embedded hacking                                      |
 | 🔨 [EKS](https://eksclustergames.com/)    | EKS Cluster Hacking                                      |
+| 📰 [Cryptography](https://cryptohack.org/)   | Cryptography weaknesses |
 
 ### Free Distance Learning courses
 
