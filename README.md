@@ -112,6 +112,10 @@ Learn more about these pathways on the [CyberSeek Pathway](https://www.cyberseek
 
 # People-Based Learning 👥
 
+
+Australia, New Zealand Conference Tracker - https://www.downundercons.nz/
+
+
 | Technical Meetups to Join and Learn – in Melbourne     | Security Conferences - ANZ                               |
 |--------------------------------------------------------|----------------------------------------------------------|
 | [SecTalks Melbourne](https://events.humanitix.com/host/sectalks-mel)                 | [Black Hat & DEFCON (US)](https://www.blackhat.com/)       |
@@ -125,7 +129,7 @@ Learn more about these pathways on the [CyberSeek Pathway](https://www.cyberseek
 | [All Sec Meetup](https://www.meetup.com/en-AU/All-Sec/)                               | [AISA](https://www.aisa.org.au/)                           |
 | [SANS Talks](https://www.sans.org/talks)                                            | [Past Conference Videos](http://www.irongeek.com/)       |
 
-Australia, New Zealand Conference Tracker - https://www.downundercons.nz/
+
 
 <br>
 
