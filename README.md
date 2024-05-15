@@ -55,6 +55,17 @@ Learn more about these pathways on the [CyberSeek Pathway](https://www.cyberseek
 </p>
 
 # Hands-on Learning 🛠️
+
+### Free Distance Learning courses
+
+<span style="color:red;">&#x25C6;</span> Check out Free content from [Antisyphon Training](https://www.antisyphontraining.com/training-calendar/list/?tribe_eventcategory%5B0%5D=125)
+
+| Red                                | Blue                                          | General 
+|--------------------------------------------|--------------------------------------------------------|--------------------------------------------------|
+| [Mobile Application Hacking](https://samsclass.info/128/128_S19.shtml)              | [Network Security Monitoring](https://samsclass.info/50/50_S19.shtml)       | [Cryptography for Computer Networks](https://samsclass.info/141/141_F17.shtml) 
+| [Exploit Development](https://samsclass.info/127/127_F18.shtml)           | [Practical Malware Analysis](https://samsclass.info/126/126_F18.shtml) | [Security+ Cert prep](https://samsclass.info/120/120_S16.shtml)         |
+| [Web Application hacking](https://samsclass.info/129S/129S_S18.shtml)     |[Incident Response](https://samsclass.info/152/152_F18.shtml)                     |  |
+| | [SOC Analyst](https://www.antisyphontraining.com/event/soc-core-skills-3/) |  |
 ## CTF Based Training - Free/Paid
 1. [Try Hack Me](https://tryhackme.com/)
 2. [Hack the Box](https://www.hackthebox.eu/)
@@ -87,14 +98,7 @@ Learn more about these pathways on the [CyberSeek Pathway](https://www.cyberseek
 | 🔨 [EKS](https://eksclustergames.com/)    | EKS Cluster Hacking                                      |
 | 📰 [Cryptography](https://cryptohack.org/)   | Cryptography weaknesses |
 
-### Free Distance Learning courses
 
-| Red                                | Blue                                          | General 
-|--------------------------------------------|--------------------------------------------------------|--------------------------------------------------|
-| [Mobile Application Hacking](https://samsclass.info/128/128_S19.shtml)              | [Network Security Monitoring](https://samsclass.info/50/50_S19.shtml)       | [Cryptography for Computer Networks](https://samsclass.info/141/141_F17.shtml) 
-| [Exploit Development](https://samsclass.info/127/127_F18.shtml)           | [Practical Malware Analysis](https://samsclass.info/126/126_F18.shtml) | [Security+ Cert prep](https://samsclass.info/120/120_S16.shtml)         |
-| [Web Application hacking](https://samsclass.info/129S/129S_S18.shtml)     |[Incident Response](https://samsclass.info/152/152_F18.shtml)                     | 
-   
 
 ### CTF based Training - Paid
 | Certification/Course                                          | Description                                                  |
