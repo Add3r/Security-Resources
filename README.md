@@ -65,6 +65,7 @@ Learn more about these pathways on the [CyberSeek Pathway](https://www.cyberseek
 | [Mobile Application Hacking](https://samsclass.info/128/128_S19.shtml)              | [Network Security Monitoring](https://samsclass.info/50/50_S19.shtml)       | [Cryptography for Computer Networks](https://samsclass.info/141/141_F17.shtml) 
 | [Exploit Development](https://samsclass.info/127/127_F18.shtml)           | [Practical Malware Analysis](https://samsclass.info/126/126_F18.shtml) | [Security+ Cert prep](https://samsclass.info/120/120_S16.shtml)         |
 | [Web Application hacking](https://samsclass.info/129S/129S_S18.shtml)     |[Incident Response](https://samsclass.info/152/152_F18.shtml)                     |  |
+| [Satellite Hacking](https://hackasat.com/learn/)| |
 | | [SOC Analyst](https://www.antisyphontraining.com/event/soc-core-skills-3/) |  |
 ## CTF Based Training - Free/Paid
 1. [Try Hack Me](https://tryhackme.com/)
@@ -77,6 +78,7 @@ Learn more about these pathways on the [CyberSeek Pathway](https://www.cyberseek
 | Website Name                                    | Description                                         |
 |-------------------------------------------------|-----------------------------------------------------|
 | 📚 [Open Security Training](http://opensecuritytraining.info/)            | Provides a wide range of security content with Lab Environments     |
+| 📁 [Satellite Hacking CTF](https://mission.hackasat.com/)  | Offers CTF based learning option to Satellite Hacking |
 | 📜 [Live Overflow](https://liveoverflow.com/getting-into-browser-exploitation-new-series-introduction-browser-0x00/) | Browser Exploitation                                |
 | 🌐 [Over The Wire](http://overthewire.org/wargames/)  | Training in most areas, i.e., WebApps, Network          |
 | 🔨 [Nebula: Exploit Exercises](https://exploit.education/) | Software exploitation                               |
