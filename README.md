@@ -173,9 +173,8 @@ Australia, New Zealand Conference Tracker - https://www.downundercons.nz/
 [Visit the No Starch Press Security Books Catalog](https://nostarch.com/catalog/security)
 
 <a href="https://nostarch.com/catalog/security">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO2vYgi2uVBjUcgoUYQPFL80Iafw5wUYzWFw" alt="Security Books">
+  <img src="https://nostarch.com/sites/all/themes/nostarch/logo.png" alt="Security Books">
 </a>
-
 
 Other sources for free ebooks
 - [B-OK](https://b-ok.global/) - Free ebooks
