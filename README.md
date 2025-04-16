@@ -114,6 +114,19 @@ Learn more about these pathways on the [CyberSeek Pathway](https://www.cyberseek
 | [Linux Academy](https://login.linuxacademy.com/)            | A very good resource to learn Cloud, DevOps, and other technical contents. No local lab deployment needed. |
 | [Pentester Academy Red Team Lab](https://www.pentesteracademy.com/redteamlab)               | Windows Red Team Lab                                        |
 
+### To Build a Home Lab for Practice
+
+#### Dedicated Server
+- [Proxmox](https://www.proxmox.com/en/)
+- [VMware ESXi](https://www.vmware.com/products/cloud-infrastructure/vsphere)
+
+#### Desktop or Workstation virtualisation (Windows, Linux, Mac)
+- [Virtual Box](https://www.virtualbox.org/)
+- [VMware Workstation](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion)
+- [QEMU](https://www.qemu.org/)
+
+Note: For older Mac versions try the below link from Internet archive to download <b>VMware Fusion 11.05</b>
+- [VMware Fusion 11.05](https://web.archive.org/web/20191021203829/https://download3.vmware.com/software/fusion/file/VMware-Fusion-11.5.0-14634996.dmg)
 <br>
 
 # People-Based Learning 👥
