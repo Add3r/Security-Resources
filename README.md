@@ -160,7 +160,7 @@ Australia, New Zealand Conference Tracker - https://www.downundercons.nz/
 | [Silvio Cesare](https://www.youtube.com/user/SilvioCesare)          | [Hackers movie](https://www.imdb.com/title/tt0113243/)           |
 | [Great Scott Gadgets](https://greatscottgadgets.com/sdr/1/)         | [Mr. Robot](https://www.imdb.com/title/tt4158110/)              |
 | [LiveOverflow](https://www.youtube.com/channel/UCe8j61ABYDuPTdtjItD2veA)   | [The Undeclared War](https://www.imdb.com/title/tt7939800/)     |
-| [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA) |                                                             |
+| [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA) | [ZeroDay](https://www.netflix.com/au/title/81598435)  |
 
 <br>
 
